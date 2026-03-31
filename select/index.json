@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "⚡",
+  "base_artist": "ハンブレッダーズ",
+  "createdAt": "2026-03-31T02:06:20.715343Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "⚡️",
+      "artist": "ハンブレッダーズ",
+      "has_synced": false,
+      "path": "select/pl_01_⚡️_ハンブレッダーズ.txt"
+    }
+  ]
+}
